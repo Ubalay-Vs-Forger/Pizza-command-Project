@@ -20,7 +20,7 @@ const MenuSecond = () => {
                         <p className='text-[white] text-[50px] text-center'>MOST POPULAR PIZZA</p>
                     </div>
 
-                    <div className='flex flex-wrap gap-[20px] justify-between pt-[70px] gap-y-[60px] relative xl:pt-[150px]'>
+                    <div className='flex flex-wrap gap-[20px] justify-center pt-[70px] gap-y-[60px] relative xl:pt-[150px]'>
                         <img className='absolute w-[285px] top-0 left-0 xl:w-[467px] xl:top-[-20px] xl:left-[-20px]' src={back} alt="" />
 
 

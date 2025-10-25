@@ -24,7 +24,7 @@ const Menu = () => {
                             <button className='bg-[#210A01] w-[130px] h-[40px] rounded-[100px] text-white text-[14px] shadow-[0px_9px_40px_0px_#FF6B000F] md:w-[150px] md:h-[52px] md:text-[18px] xl:w-[229px] xl:h-[62px] xl:text-[22px]'>Mushroom</button>
                         </div>
 
-                        <div className='flex flex-wrap gap-[20px] justify-between pt-[70px] gap-y-[60px] relative xl:pt-[150px]'>
+                        <div className='flex flex-wrap gap-[20px] justify-center pt-[70px] gap-y-[60px] relative xl:pt-[150px]'>
                             <img className='absolute w-[285px] top-0 left-0 xl:w-[467px] xl:top-[-20px] xl:left-[-20px]' src={back} alt="" />
 
 
